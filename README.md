@@ -27,10 +27,13 @@
 > The description should NOT contain any personally identifiable information.
 
 #### a. Description of Participant 1
- - The Quick 
- - Brown Fox 
- - Jumps Over 
- - The Lazy Dog
+- Architecture student
+- 21 years old
+- Female
+- Familiar with e-learning concept.
+- Have used other website for e-learning purpose
+- Familiar with account creation process on website. Have made around 10 online accounts on various websites.
+- Used to browse the internet and use laptop on daily basis
 
 #### b. Description of Participant 2
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
@@ -40,7 +43,16 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 > If it is the same as previous assignments, please mention this, yet go ahead and INCLUDE it again,
 > so we have everything in one place.
 > Note that the evaluation script must include exactly what you plan to say to the participants.
+#### Question
+1.	Are you familiar with the concept of e-learning?
+2.	Have you used any website for e-learning purpose?
+3.	Are you familiar with account creation process in a website? If so, how many accounts you have created so far?
 
+#### Instruction
+1. Open [**itsdaring.id**](https://itsdaring.id/) then create an account.
+2. After creating account, try to sign in then sign out.
+3. Try to find 1 course from Thechnology category especially about Informatics. Then read some of its learning materials.
+4. Try to find 2 free course. Then, enroll to the courses. Then, read some its learning materials.
 ### 3. Transcript
 > Provide a summary of what the participant did and said, and what you did and said.
 > If at some points you have to help the participants, because they cannot figure out what to do,
