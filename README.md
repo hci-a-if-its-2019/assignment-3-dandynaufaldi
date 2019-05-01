@@ -190,11 +190,12 @@
 > Afterwards, scan the sketch or make the photograph of it and attach it on this report's section.
 > Please make sure the any texts on the sketch are readable.
 
-![Sketch of Refined Prototype](https://cdn2.hubspot.net/hub/725165/file-3421843765-png/blog-files/uxpin--300x211.png)
-
+![Sketch of Refined Prototype](images/sketch.png)
 ### Design Rationale
 > Please write a paragraph expressing what you have learned from the usability evaluation, 
 > and how it is reflected in your design.
+
+From the usability evaluation, I learned that everyone has different perspective / opinion regarding things. Just like, I get suggestion for logout button which is never complained by my first participant. With more participant for evaluation, we can get better understanding about what user want and need which really helps in a user centered design project. And, never forget that this is a repetitive process with improvement in every steps as we gather more user evaluation to improve our design and experience that we provide.
 
 ### High-Fidelity Interactive-Prototype
 > Create a high-fidelity interactive-prototype based on the `Sketch` you have drawn.
