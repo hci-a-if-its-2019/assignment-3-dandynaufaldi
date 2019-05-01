@@ -133,32 +133,52 @@
 #### OBSERVATION 1 (Homepage - Login & Sign Up Button)
 ![Prototype Homepage](images/Homepage.png)
 
- - **Reference**: Provide line-number(s) or time-code(s) referred by feedback/incidence observed on the screen.
- - **Feedback**: Provide feedback (positive or negative) given by the participants, if any.
- - **Incidence**: Critical incidences (breakdowns or problems encountered by the participants) and/or mistakes committed by the participants, if any.
- - **Reason**: Explain the reason for the breakdowns or the negative feedback observed on the screen.
- - **Resolution**: Suggest any modifications that might be made to the UI to address the issues in this `OBSERVATION 1`.
+ - **Reference**: [#1, 16]
+ - **Feedback**: Positive
+ - **Incidence**: -
+ - **Reason**: The separation of login and sign up button make things clearer.
+ - **Resolution**: -
  
-#### OBSERVATION 2
-![Prototype Screen 2](https://www.studiainitalia.com/wp-content/uploads/2017/02/free-courses-Learn-Italian-Online.jpg)
+#### OBSERVATION 2 (Login & Sign up form)
+![Sign up](images/sign_up.png)
+![Login](images/sign_in.png)
 
- - **Reference**: 
- - **Feedback**: 
- - **Incidence**: 
- - **Reason**: 
- - **Resolution**: Suggest any modifications that might be made to the UI to address the issues in this `OBSERVATION 2`.
+ - **Reference**: [#1, 16]
+ - **Feedback**: Positive
+ - **Incidence**: -
+ - **Reason**: Can do sign up faster because it's in the same place as the login form.
+ - **Resolution**: - 
  
-#### OBSERVATION 3
-![Prototype Screen 3](https://www.jbklutse.com/wp-content/uploads/2019/01/language-learning-apps.png)
+#### OBSERVATION 3 (Profile Dropdown)
+![Profile Dropdown](images/profile_dropdown.png)
 
- - **Reference**:  
- - **Feedback**: 
- - **Incidence**: 
- - **Reason**: 
- - **Resolution**: Suggest any modifications that might be made to the UI to address the issues in this `OBSERVATION 3`.
+ - **Reference**:  [#2, 6]
+ - **Feedback**: Negative
+ - **Incidence**: Participant hardly see the presence of logout button in the dropdown
+ - **Reason**: The text is too small and doesn't look very different from its suroundings
+ - **Resolution**: Move logout button to the bottom of profile dropdown and use different color to make it more eye-catching.
  
- ... and so on ...
- 
+ ### OBSERVATION 4 (Course List Ordering)
+![Ordering](images/ordering.png)
+  - **Reference**: [#1, 20]
+ - **Feedback**: Positive kinda
+ - **Incidence**: -
+ - **Reason**: The change of ordering into alphabetical doesn't really affect anything at all
+ - **Resolution**: -
+
+#### OBSERVATION 5 (Free and Paid Course Filter)
+![all course](images/all_course.png)
+- **Reference**: [#1, 30]
+ - **Feedback**: Positive
+ - **Incidence**: -
+ - **Reason**: The presence of filter make the process faster, no need to scroll down on homepage
+ - **Resolution**: - 
+![math](images/math.png)
+ - **Reference**: [#2, 22]
+ - **Feedback**: Negative
+ - **Incidence**: Participant can't find the filter when opening Mathematics courses page
+ - **Reason**: The filter by paid/free have only applied to 'show all courses' page only.
+ - **Resolution**: Implement the filter on all page that is showing list of courses
  ---
 
 ## Part B: Prototyping (again)
