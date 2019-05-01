@@ -35,7 +35,12 @@
 - Used to browse the internet and use laptop on daily basis
 
 #### b. Description of Participant 2
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+- Marine Engineering student
+- 22 years old
+- Male
+- Quite familiar with e-learning concept
+- Have used e-learning website (SHARE ITS)
+- Used to browse internet for watching video and looking for online learning material
 
 ### 2. Evaluation Script
 > Write the questions you ask and the instructions you use to direct the participants on what to do.
@@ -95,16 +100,38 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
  31. **You**: Udah itu aja sih.
 
 #### b. Transcript with Participant 2
- - **00:01** 👨‍🔬 You: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
- - **00:10** 👨‍💻 Participant: Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
- - **00:17** 👨‍🔬 You: when an unknown printer took a galley of type and scrambled it to make a type specimen book.
- - **00:25** 👨‍💻 Participant: The Quick Brown Fox Jumps Over The Lazy Dog.
+ 1. **You**: Jadi, di sini aku bakal nunjukin 1 prototype dari web. Dia itu isinya gambar-gambar yang bisa dikasih aksi kayak klik-klik tombol, dll gitu
+ 2. **Participant**: oke, terus aku harus ngapain aja?
+ 3. **You**: pertama kamu coba sign up, terus logout. Sama login lagi.
+ 4. **Participant**: Sign up ini ya (menunjuk tombol sign up). Ok, bisa sign up.
+ 5. **You**: Sekarang coba logout terus login lagi
+ 6. **Participant**: Ok, \*klik nama user di kanan atas\*, mana logout-nya ya? Hmm, oh ini. Kok kecil gini ya. Susah nyarinya.
+ 7. **You**: iya ya, nanti dipindah deh, sekarang kamu login lagi ya.
+ 13. **Participant**: Ok, ini udah login lagi.
+ 8. **You**: sekarang, kamu coba cari list kuliah dari Matematika.
+ 9. **Participant**: Menu kuliah itu \*klik menu kuliah\*, terus ini Matematika. Terus ini gimana?
+ 10. **You**: Udah list-nya ya gitu aja sih. Terus di web ini kan yang namanya course itu ada 2 macam, gratis sama berbayar. Coba kamu dapetin list course yang gratis sama berbayar.
+ 11. **Participant**: Oh, di sini ada dua jenis gitu ya.. Cek di mana ya?.. \*mencari-cari\*
+ 12. **You**: Coba cari dulu aja.
+ 13. **Participant**: Iya ini, kebetulan juga ga semua tombol aktif kan ya. Tapi, ngeceknya di mana ini.
+ 14. **You**: Kalau di web aslinya tu cek di homepage, bisa keliahat semua course yang ada gitu, tapi di sini udah diubah, ga semua muncul di homepage.
+ 15. **Participant**: Gitu ya, hm apa harus lihat list semua course dulu?
+ 16. **You**: Mungkin, coba aja 
+ 17. **Participant**: Ini di menu kuliah ada semua course, coba ini ya.
+ 18. **Participant**: nah ini ada milih gratis sama berbayar \*menunjuk sidebar\*
+ 19. **You**: Terus gimana?
+ 20. **Participant**: Ini klik yang gratis, kalau berbayar klik yang berbayar
+ 21. **You**: Sip, bener
+ 22. **Participant**: Tapi tadi aneh ya, pas buka yang Matematika ga ada milih gratis/berbayar kayak ini, haruse ada semua
+ 23. **You**: Iya ya, nanti kutambahin deh
+ 24. **Participant**: Ada lagi ga?
+ 25. **You**: Udha itu aja sih.
 
 ### 4. Feedback and Incidence Analysis
 > Record your observations per prototype screen followed by reference, feedback, incidence, reason, and resolution.
 
-#### OBSERVATION 1
-![Prototype Screen 1](https://www.europassitalian.com/wp-content/uploads/2018/02/bravolol-app-screenshot-1-635x1128.png)
+#### OBSERVATION 1 (Homepage - Login & Sign Up Button)
+![Prototype Homepage](images/Homepage.png)
 
  - **Reference**: Provide line-number(s) or time-code(s) referred by feedback/incidence observed on the screen.
  - **Feedback**: Provide feedback (positive or negative) given by the participants, if any.
