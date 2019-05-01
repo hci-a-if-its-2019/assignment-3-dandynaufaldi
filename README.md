@@ -50,8 +50,8 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 #### Instruction
 1. Open [**itsdaring.id**](https://itsdaring.id/) then create an account.
 2. After creating account, try to sign in then sign out.
-3. Try to find 1 course from Thechnology category especially about Informatics. Then read some of its learning materials.
-4. Try to find 2 free course. Then, enroll to the courses. Then, read some its learning materials.
+3. Try to find 1 course from Mathematics category.
+4. Try to find the list of free and paid courses.
 ### 3. Transcript
 > Provide a summary of what the participant did and said, and what you did and said.
 > If at some points you have to help the participants, because they cannot figure out what to do,
@@ -62,10 +62,37 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 > Remember to supplement the transcript with time-codes or line-numbers.
 
 #### a. Transcript with Participant 1
- 1. **You**: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
- 1. **Participant**: Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
- 1. **You**: when an unknown printer took a galley of type and scrambled it to make a type specimen book.
- 1. **Participant**: The Quick Brown Fox Jumps Over The Lazy Dog.
+ 1. **You**: Jadi yang sekarang ini nyobain prototype hasil perbaikan web yang dulu itu.
+ 2. **Participant**: Yang itsdaring itu ya?
+ 3. **You**: ya, ini prototype-nya, coba kamu lihat
+ 4. **Participant**: \*melihat-lihat homepage\*
+ 5. **You**: langsung aja ya, coba sign up bikin akun.
+ 6. **Participant**: aku kemarin belum bikin akun ya. \*klik sign up dan mencoba mengisi form \* 
+ 7. **You**: Itu (form) ga bisa diisi
+ 8. **Participant**: oo, ga bisa diisi?
+ 9. **You**: iya, ini cuma prototype, aslinya gambar-gambar aja.
+ 10. **Participant**: oo, gitu. Terus aku login?
+ 11. **You**: Iya.
+ 12. **Participant**: Oo, yayaya
+ 13. **You**: Terus setelah login, coba log out.
+ 14. **Participant**: Nah, udah.
+ 15. **You**: Gimana ada bedanya sama yang dulu?
+ 16. **Participant**: Enak yang ini sih, visualnya enak yang ini sama kalau sign up lebih gampang ga banyak klik-klik. Sama tombol login sama sign up enak dipisah gini sih, lebih jelas.
+ 17. **You**: Coba login lagi, terus cari course-nya matematika
+ 18. **Participant**: \*klik menu kuliah, pilih matematika\* Ya ya
+ 19. **You**: Kalau ini kan penataannya kuubah jadi alfabetis, menurutmu gimana?
+ 20. **Participant**: Kalo menurutku sih ga terlalu ngefek ya, aku juga masih nyari-nyari dulu
+ 21. **You**: Terus, kayak kemarin kan ada yang nyari course gratis sama berbayar. Nah sekarang kamu coba lagi.
+ 22. **Participant**: Hmm, lewat mana ya. Dulu itu ada tulisannya free sama ga kan ya?
+ 23. **You**: Iya, tapi itu kan di homepage.
+ 24. **Participant**: Hoo, ini tadi buka menu kuliah pilih matematika kan ya, kalau nampilin semuanya lewat mana ya?
+ 25. **You**: lihat-lihat isi menunya aja dulu
+ 26. **Participant**: Oh, ini ada 'semua course'. \*klik semua course di menu kuliah\*
+ 27. **You**: Terus gimana buat nampilih list yang free aja sama yang paid aja?
+ 28. **Participant**: Ini (filter di sidebar) pilih free. Nah, ini yang free aja. Terus pilih yang paid.
+ 29. **You**: Sip sip, gimana dibanding cara yang dulu?
+ 30. **Participant**: Ini lebih cepet sih, dulu kan scroll di homepage terus cari satu-satu buat lihat free atau berbayar. Habis ini ada lagi? 
+ 31. **You**: Udah itu aja sih.
 
 #### b. Transcript with Participant 2
  - **00:01** 👨‍🔬 You: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
